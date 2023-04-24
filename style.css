@@ -157,11 +157,11 @@ button {
   display: none;
 }
 
-.editMode .task-input {
+.edit-mode .task-input {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .todo-list__label {
+.edit-mode .todo-list__label {
   display: none;
 }
